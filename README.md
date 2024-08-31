@@ -11,7 +11,3 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: When I'm not analyzing data, you might find me exploring the latest in tech, experimenting with vegetarian recipes, or cheering on my favorite soccer team!
 
-<!---
-ayushisharmaprofile/ayushisharmaprofile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
