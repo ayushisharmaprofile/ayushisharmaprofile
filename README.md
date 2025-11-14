@@ -2,7 +2,9 @@
 
 - 👀 I’m passionate about data, technology, and using insights to drive meaningful impact. Whether it's diving deep into SQL queries or exploring new tools, I'm always up for a challenge.
 - 🌱 I’m currently learning advanced data analytics techniques and working on exciting projects that blend creativity with data science.
+
 - 💻 My tech stack includes:
+  - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushisharmaprofile&langs_count=8)
   - **Languages**: SQL, Python, R, Excel VBA
   - **Tools & Platforms**: Tableau, Power BI Git, Microsoft Office Suite, Visio, Oracle, Looker, Microsoft Azure, AWS, BigQuery, Redshift
   - **Specialties**: Data analysis, Business strategy, Process optimization and reporting, Financial modeling, Quantitative analysis, Predictive analytics, Forcasting, ETL design. I love bringing structure to chaos!
