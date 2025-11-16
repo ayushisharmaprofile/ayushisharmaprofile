@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ayushi, an analytics engineer from the US
+ 👋 Hi, I’m Ayushi, an analytics engineer from the US
 
 ## 🙋‍♀️ About Me
 * 📊 I'm currently an analytics engineer at NYC Human Resource Adminstration, Office of Performance Managment and Data Analytics.
@@ -8,10 +8,10 @@
 
 
 ## 🛠️ My Skills
-* **Programming Languages**: SQL (PostgreSQL, SQLite) | Python (Pandas, NumPy, Matplotlib, Scikit-learn)
-* **Tools**: Tableau | Google Looker Studio | Google BigQuery | Google Cloud Platform | Excel 
-* **Other**: ETL | Data Modeling | Rest APIs | Git | Github
-* **Specialties**: Data analysis, Business strategy, Process optimization and reporting, Financial modeling, Quantitative analysis, Predictive analytics, Forcasting, ETL design. I love bringing structure to chaos!
+* **Programming Languages:** SQL (PostgreSQL, SQLite) | Python (Pandas, NumPy, Matplotlib, Scikit-learn)
+* **Tools:** Tableau | Google Looker Studio | Google BigQuery | Google Cloud Platform | Excel 
+* **Other:** ETL | Data Modeling | Rest APIs | Git | Github
+* **Specialties:** Data analysis, Business strategy, Process optimization and reporting, Financial modeling, Quantitative analysis, Predictive analytics, Forcasting, ETL design. I love bringing structure to chaos!
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushisharmaprofile&layout=compact&theme=default&hide_border=true" alt="Most Used Languages Chart" />
@@ -20,8 +20,8 @@
 
 ## 📫 Connect with Me
 * 💞️ I’m looking to collaborate on innovative data-driven projects, especially those that involve automating complex processes or uncovering hidden trends.
-* 📫 Let’s Connect**: I’m always open to networking and collaboration. You can find me on [LinkedIn](https://www.linkedin.com/in/ayushi-sharma-profile/) – let’s chat about how data can solve today’s challenges!
-* 😄 Pronouns: She/Her
-* ⚡ Fun fact: When I'm not analyzing data, you might find me exploring the latest in tech, experimenting with vegetarian recipes, or cheering on my favorite soccer team!
+* 📫 **Let’s Connect:** I’m always open to networking and collaboration. You can find me on [LinkedIn](https://www.linkedin.com/in/ayushi-sharma-profile/) – let’s chat about how data can solve today’s challenges!
+* 😄 **Pronouns:** She/Her
+* ⚡ **Fun fact:** When I'm not analyzing data, you might find me exploring the latest in tech, experimenting with vegetarian recipes, or cheering on my favorite soccer team!
 
 The Top Languages Chart code can be found in this repo: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
