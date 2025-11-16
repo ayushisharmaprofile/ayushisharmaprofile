@@ -1,4 +1,4 @@
- 👋 Hi, I’m Ayushi, an analytics engineer from the US
+ 👋 Hi, I’m Ayushi, an Business Data Analyst from the US
 
 ## 🙋‍♀️ About Me
 * 📊 I'm currently an analytics engineer at NYC Human Resource Adminstration, Office of Performance Managment and Data Analytics.
