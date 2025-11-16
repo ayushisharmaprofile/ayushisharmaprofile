@@ -1,7 +1,7 @@
  👋 Hi, I’m Ayushi, an Business Data Analyst from the US
 
 ## 🙋‍♀️ About Me
-* 📊 I'm currently an analytics engineer at NYC Human Resource Adminstration, Office of Performance Managment and Data Analytics.
+* 📊 I'm currently a Business Data Analyst at NYC Human Resource Administration, Office of Performance Management and Data Analytics.
 * ⚙️ I specialize in product, finance, and marketing analytics.
 * 👀 I’m passionate about data, technology, and using insights to drive meaningful impact. Whether it's diving deep into SQL queries or exploring new tools, I'm always up for a challenge.
 * 🌱 I’m currently learning advanced data analytics techniques and working on exciting projects that blend creativity with data science.
